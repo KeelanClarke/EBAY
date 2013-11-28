@@ -1,0 +1,20 @@
+#textinput{
+	width: 200;
+	height: 25;
+
+}
+#submit-query{
+	width: 120;
+	height: 25;
+	
+}
+#lbl_search_num{
+	float: left;
+
+
+}
+#input_search_num{
+	width: 200;
+	height: 25;
+
+}
