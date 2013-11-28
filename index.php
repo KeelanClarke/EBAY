@@ -104,7 +104,7 @@ function buildXMLFilter ($filterarray) {
 <!-- Build the HTML page with values from the call response -->
 <html>
 <head>
-<title>eBay Search Results for <?php echo $query; ?></title>
+<title>eBay Algorithm <?php echo $query; ?></title>
 <link type="text/css" href="style.css" rel="stylesheet" /> 
 </head>
 <body>
